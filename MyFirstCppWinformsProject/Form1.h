@@ -63,17 +63,17 @@ namespace CppCLRWinFormsProject {
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(75, 23);
 			this->button1->TabIndex = 0;
-			this->button1->Text = L"button1";
+			this->button1->Text = L"DOOM";
 			this->button1->UseVisualStyleBackColor = true;
 			// 
 			// label1
 			// 
 			this->label1->AutoSize = true;
-			this->label1->Location = System::Drawing::Point(152, 9);
+			this->label1->Location = System::Drawing::Point(88, 9);
 			this->label1->Name = L"label1";
-			this->label1->Size = System::Drawing::Size(35, 13);
+			this->label1->Size = System::Drawing::Size(178, 13);
 			this->label1->TabIndex = 1;
-			this->label1->Text = L"label1";
+			this->label1->Text = L"Most Importent Heading of the world";
 			// 
 			// textBox1
 			// 
@@ -91,7 +91,7 @@ namespace CppCLRWinFormsProject {
 			this->Controls->Add(this->label1);
 			this->Controls->Add(this->button1);
 			this->Name = L"Form1";
-			this->Text = L"Form1";
+			this->Text = L"Fancy Testapplication";
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
